@@ -1,7 +1,3 @@
 # FWeixin
-echo "# FWeixin" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:lvjie0519/FWeixin.git
-git push -u origin master
+
+## UI 仿微信
